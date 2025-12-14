@@ -1,0 +1,10 @@
+[package]
+name = "oxalsien"
+version = "0.1.0"
+edition = "2021"
+
+description = "ALIEN-inspired claim verification and finality probability simulator"
+license = "MIT"
+repository = "https://github.com/JROChub/oxalslien"
+homepage = "https://github.com/JROChub/oxalslien"
+documentation = "https://docs.rs/oxalsien"

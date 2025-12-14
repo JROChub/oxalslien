@@ -1,0 +1,5 @@
+/home/lexluger/oxalslien/target/package/oxalsien-0.1.0/target/debug/build/libc-658c8cc9486acc39/build_script_build-658c8cc9486acc39.d: /home/lexluger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.178/build.rs
+
+/home/lexluger/oxalslien/target/package/oxalsien-0.1.0/target/debug/build/libc-658c8cc9486acc39/build_script_build-658c8cc9486acc39: /home/lexluger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.178/build.rs
+
+/home/lexluger/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.178/build.rs:
